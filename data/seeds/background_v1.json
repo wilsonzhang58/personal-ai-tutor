@@ -1,0 +1,50 @@
+{
+  "version": "hk-secondary-2017-v1",
+  "verified_on": "2026-11-24",
+  "source_url": "https://www.edb.gov.hk/attachment/en/curriculum-development/kla/ma/curr/ME_KLACG_eng_2017_12_08.pdf",
+  "scope": "香港教育局2017数学教育学习领域课程指引中的中学数学保守子集，非完整国家课程标准。函数、方程、不等式、指数对数、基本概率与描述统计作为起点假设；向量、微积分和大学目标不自动认定已学。",
+  "concepts": [
+    [
+      "math.functions",
+      "函数",
+      "functions",
+      "数学/函数",
+      "输入输出关系与函数图像"
+    ],
+    [
+      "math.quadratic_equations",
+      "一元二次方程",
+      "quadratic equations",
+      "数学/代数",
+      "一元二次方程的根和求解"
+    ],
+    [
+      "math.inequalities",
+      "方程与不等式",
+      "equations and inequalities",
+      "数学/代数",
+      "基本方程、不等式和可行范围"
+    ],
+    [
+      "math.logarithms",
+      "指数与对数",
+      "exponentials and logarithms",
+      "数学/函数",
+      "指数对数函数及基本运算"
+    ],
+    [
+      "probability.basic",
+      "基础概率",
+      "basic probability",
+      "数学/概率统计",
+      "样本空间、事件和基本概率计算"
+    ],
+    [
+      "statistics.descriptive",
+      "描述统计",
+      "descriptive statistics",
+      "数学/概率统计",
+      "均值、中位数、离散程度与数据图表"
+    ]
+  ]
+}
