@@ -30,5 +30,6 @@
   },
   "overrides": {
     "katex": "$katex"
-  }
+  },
+  "description": "A one-to-one AI tutor that uses your recorded knowledge across courses to tailor explanations, with in-lesson questions and saved notes to support continued self-study."
 }
